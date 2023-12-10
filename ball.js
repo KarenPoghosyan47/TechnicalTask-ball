@@ -13,8 +13,8 @@ class Ball {
     draw() {
         this.context.beginPath();
         this.context.arc(this.x, this.y, this.radius, 0, 2 * Math.PI);
-        this.context.fillStyle = '#' + Math.floor(Math.random() * 16777215).toString(16);
-        // this.context.fillStyle =" #ffff"
+        // this.context.fillStyle = '#' + Math.floor(Math.random() * 16777215).toString(16);
+        this.context.fillStyle ="#FFFF"
         this.context.fill();
         this.context.closePath();
     }
