@@ -9,7 +9,7 @@ This project demonstrates an interactive and visually appealing animation implem
 - **Dynamic:** Multiple balls can exist on the canvas at the same time, creating a visually appealing scene.
 
 
-###Code Structure
+### Code Structure
 
 - **index.html:** Main HTML file with the canvas and script references.
 - **ball.js:** JavaScript file containing the 'Ball'  class
