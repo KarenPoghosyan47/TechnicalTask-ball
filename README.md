@@ -15,7 +15,6 @@ This project demonstrates an interactive and visually appealing animation implem
 - **ball.js:** JavaScript file containing the 'Ball'  class.
 - **animation.js:** Animation logic.
 - **style.css:** style canva and canva div.
-- **img-folder:** project pictures
 
 ### Getting Started
 
