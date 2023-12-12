@@ -8,7 +8,7 @@ canvas.addEventListener('click', function(event) {
     //ստանում ենք սեղմման կոորդինատները կտավի համեմատ
     const x = event.clientX - canvas.offsetLeft;
     const y = event.clientY - canvas.offsetTop;
-    let r = Math.random() * 20 + 10;//Պատահական շառավիղ  նոր շրջանագծ
+    let r = Math.random() * 30 + 25;//Պատահական շառավիղ  նոր շրջանագծ
 
     //Ստեղծել շրջանակի նոր օրինակ և ավելացնել այն զանգվածի մեջ
     const ball = new Ball(x, y, r, context);

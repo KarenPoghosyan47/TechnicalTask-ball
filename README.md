@@ -12,8 +12,10 @@ This project demonstrates an interactive and visually appealing animation implem
 ### Code Structure
 
 - **index.html:** Main HTML file with the canvas and script references.
-- **ball.js:** JavaScript file containing the 'Ball'  class
+- **ball.js:** JavaScript file containing the 'Ball'  class.
 - **animation.js:** Animation logic.
+- **style.css:** style canva and canva div.
+- **img-folder:** project pictures
 
 ### Getting Started
 
